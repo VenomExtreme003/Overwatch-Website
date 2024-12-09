@@ -1,6 +1,7 @@
 {
   "name": "web-app",
   "version": "0.1.0",
+  "homepage": "https://VenomExtreme003.github.io/Overwatch-Website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
